@@ -1,0 +1,1 @@
+This shell snippet creates a default cs-ui install via Helm.

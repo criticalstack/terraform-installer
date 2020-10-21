@@ -1,0 +1,20 @@
+*.tar.gz
+*.tgz
+
+# terraform state and config files
+terraform.tfstate*
+terraform.tfplan
+.terraform*
+terraform.tfvars
+terraform.tfvars.json
+
+rendered.yaml
+
+# kubeconfig files
+admin.conf
+.kube/
+
+*.crt
+*.key
+.pki
+id_rsa

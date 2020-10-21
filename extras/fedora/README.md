@@ -1,0 +1,1 @@
+These userdata files can be used to bootstrap nodes with Fedora, RHEL, CentOS, or other RPM-based OS images.
