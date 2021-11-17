@@ -1,3 +1,5 @@
+# Due to changes in the priorities, this project is currently not being supported. The project is archived as of 11/17/21 and will be available in a read-only state. Please note, since archival, the project is not maintained or reviewed. #
+
 ## Critical Stack Terraform Installer Reference
 
 This repo contains reference files for a minimal installation of Kubernetes using the Critical Stack cluster bootstrapping components. 
